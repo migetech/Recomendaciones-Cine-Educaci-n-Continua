@@ -1,25 +1,25 @@
-"Título","Director","Año"
-"Bachelor Party","Neal Israel","1984"
-"Evil Has a Face / Witchcraft","Rob Spera","1988"
-"Barbarian Queen","Héctor Olivera","1985"
-"Certain Women","Kelly Reichardt","2016"
-"Ultra Q","Varios","1966"
-"La Famosa Invasión de los Osos en Sicilia","Lorenzo Mattotti","2019"
-"Brooklyn's Finest","Antoine Fuqua","2009"
-"Abattoir","Darren Lynn Bousman","2016"
-"Reality","Quentin Dupieux","2014"
-"River Wild","Curtis Hanson","1994"
-"Under Fire","Roger Spottiswoode","1983"
-"Bernie","Richard Linklater","2011"
-"Perfect Sense","David Mackenzie","2011"
-"The Lords of Flatbush","Stephen F. Verona y Martin Davidson","1974"
-"Two on a Guillotine","William Conrad","1965"
-"Mortal Thoughts","Alan Rudolph","1991"
-"Taking Lives","D.J. Caruso","2004"
-"Stir of Echoes","David Koepp","1999"
-"Dead for a Dollar","Walter Hill","2022"
-"The Green Mile","Frank Darabont","1999"
-"Ballerina","Len Wiseman","2024"
-"The Jack Bull","John Badham","1999"
-"Zombies of Mora Tau","Edward Cahn","1956"
-"Matt Helm, agente muy especial","Henry Levin","1966"
+id,Titulo,Año,Director,Protagonistas,Sinopsis,"IMDB Rating","FilmAffinity Rating",Genero,Datos Relevantes,Actualización
+1,"The Green Mile",1999,"Frank Darabont","Tom Hanks, Michael Clarke Duncan, David Morse","Un guardia de prisión descubre que un condenado tiene poderes milagrosos.",8.6,7.8,"Drama, Fantasía, Crimen","Basada en Stephen King. Nominada a 4 Oscar. Michael Clarke Duncan nominado al Oscar.",2023
+2,"Certain Women",2016,"Kelly Reichardt","Laura Dern, Kristen Stewart, Michelle Williams, Lily Gladstone","Tres mujeres en Montana enfrentan limitaciones sociales y emocionales.",6.8,7.7,Drama,"Minimalismo extremo. Lily Gladstone nominada a Globos de Oro. Basada en relatos de Maile Meloy.",2023
+3,"Brooklyn's Finest",2009,"Antoine Fuqua","Don Cheadle, Richard Gere, Ethan Hawke, Wesley Snipes","Tres policías de Brooklyn enfrentan dilemas morales y personales.",6.8,6.9,"Drama, Crimen, Thriller","Ethan Hawke nominado al Oscar. Filmada en locaciones reales. Cine policial crudo.",2023
+4,"Bernie",2011,"Richard Linklater","Jack Black, Shirley MacLaine, Matthew McConaughey","Un director de funeraria asesina a una anciana rica, pero la comunidad lo defiende.",7.2,6.4,"Comedia negra, Drama, Crimen","Basada en caso real. Jack Black en papel dramático. Humor negro y crítica social.",2023
+5,"Stir of Echoes",1999,"David Koepp","Kevin Bacon, Kathryn Erbe, Illeana Douglas","Un hombre hipnotizado comienza a ver espíritus que lo llevan a un crimen oculto.",7.3,6.2,"Terror, Misterio, Thriller","Estrenada antes que El sexto sentido. Atmosfera inquietante y bien construida.",2023
+6,"Perfect Sense",2011,"David Mackenzie","Ewan McGregor, Eva Green","Una pareja se enamora mientras una epidemia hace perder los sentidos.",6.7,6.7,"Drama, Romance, Ciencia ficción","Metáfora sobre el aislamiento. Película postapocalíptica introspectiva.",2023
+7,"Under Fire",1983,"Roger Spottiswoode","Nick Nolte, Ed Harris, Geneviève Bujold","Un fotógrafo de guerra en Nicaragua se ve envuelto en la revolución sandinista.",7.1,6.2,"Drama, Guerra, Thriller","Uno de los mejores dramas bélicos sobre América Latina. Crítica al periodismo.",2023
+8,"Reality",2014,"Quentin Dupieux","Alain Chabat, Jonathan Cohen","Un hombre obsesionado con volverse 'real' altera su percepción del mundo.",6.1,6.9,"Comedia negra, Absurdo, Fantasía","Surrealismo extremo. Dirigida por el creador de Rubber. Apreciada en festivales.",2023
+9,"The Lords of Flatbush",1974,"Stephen F. Verona y Martin Davidson","Sylvester Stallone, Henry Winkler, Paul Sorvino","Jóvenes greasers en Brooklyn lidian con amor y futuro incierto.",6.6,6.3,"Drama, Juvenil","Primer papel protagónico de Stallone. Inspiró Grease. Estética de los 50.",2023
+10,"River Wild",1994,"Curtis Hanson","Meryl Streep, Kevin Bacon, David Strathairn","Una familia en rafting es perseguida por criminales en rápidos peligrosos.",6.6,6.2,"Thriller, Aventura","Meryl Streep hace sus escenas de acción. Tensión constante y paisajes reales.",2023
+11,"Mortal Thoughts",1991,"Alan Rudolph","Cynthia Nixon, Patricia Arquette, Harvey Keitel","Una mujer es interrogada tras la muerte de su amante; revela abuso y traición.",6.4,6.2,"Thriller, Drama, Misterio","Estilo noir moderno. Estructura no lineal. Buena actuación de Arquette.",2023
+12,"Taking Lives",2004,"D.J. Caruso","Angelina Jolie, Ethan Hawke, Kiefer Sutherland","Un profiler busca a un asesino que roba identidades de sus víctimas.",6.3,6.0,"Thriller, Crimen, Misterio","Basada en novela de Michael Pye. Estética oscura. Éxito comercial.",2023
+13,"Abattoir",2016,"Darren Lynn Bousman","Jessica Lowndes, Joe Anderson, Dayton Callie","Un periodista investiga asesinatos en casas vinculadas a un ente sobrenatural.",5.5,6.0,"Terror, Misterio, Sobrenatural","Basada en cómic de IDW. Dirigida por el creador de Saw II-IV.",2023
+14,"Dead for a Dollar",2022,"Walter Hill","Christoph Waltz, Willem Dafoe, Rachel Brosnahan","Un cazador de recompensas busca rescatar a una mujer secuestrada en el Oeste.",5.8,5.5,"Western, Acción, Crimen","Retorno de Walter Hill al western clásico. Estética de los 70.",2023
+15,"Bachelor Party",1984,"Neal Israel","Tom Hanks, Adrian Zmed, Tawny Little","Despedida de soltero descontrolada termina en caos.",6.4,4.8,Comedia,"Segunda película de Tom Hanks. Inició la fórmula de comedias grupales.",2023
+16,"La Famosa Invasión de los Osos en Sicilia",2019,"Lorenzo Mattotti","Fanny Ardant, Toni Servillo (voces)","Un rey y su hijo escapan a una isla mágica de osos parlantes.",6.5,4.6,"Animación, Fantasía, Drama","Basada en libro de Dino Buzzati. Estética pictórica. Presentada en Cannes.",2023
+17,"Ballerina",2024,"Len Wiseman","Ana de Armas, Paul Mescal","Una bailarina es reclutada como espía en una conspiración internacional.",5.5,5.5,"Acción, Espionaje, Drama","Producción de John Wick. Combina ballet y acción. Estreno 2024.",2024
+18,"The Jack Bull",1999,"John Badham","John Cusack, John Goodman, Kelly Lynch","Un abogado del Oeste busca justicia tras un linchamiento.",6.8,4.1,"Western, Drama","Hecho para HBO. Alta calidad de producción. Temas de justicia.",2023
+19,"Barbarian Queen",1985,"Héctor Olivera","Lana Clarkson, William Smith","Una guerrera esclava lidera una rebelión en un mundo fantástico.",4.4,4.8,"Fantasía, Acción, Sword and Sorcery","Culto de cine B. Lana Clarkson fue asesinada por Phil Spector.",2023
+20,"Evil Has a Face / Witchcraft",1988,"Rob Spera","Stephen Furst, Richard Moll","Un hombre descubre que su esposa pertenece a una secta satánica.",4.3,4.6,"Terror, Sobrenatural","Bajo presupuesto. Confusión con saga Witchcraft. Poco conocida.",2023
+21,"Two on a Guillotine",1965,"William Conrad","Connie Stevens, Dean Jones, Cesar Romero","Una mujer debe pasar la noche en una mansión embrujada para heredar.",6.5,3.8,"Terror, Misterio, Thriller psicológico","Producción de The Twilight Zone. Protagonista femenina en terror.",2023
+22,"Ultra Q",1966,Varios,"Akiji Kobayashi, Ken Uehara","Serie de fenómenos extraños, monstruos y OVNI (estilo Twilight Zone japonés).",7.7,3.5,"Ciencia ficción, Terror, Serie","Predecesora de Ultraman. Serie de TV, no película. Culto entre fans de kaiju.",2023
+23,"Matt Helm, agente muy especial",1966,"Henry Levin","Dean Martin, Stefanie Powers, Victor Buono","Agente secreto con estilo de playboy combate a una organización criminal.",5.8,3.8,"Espionaje, Comedia, Acción","Parodia de James Bond. Dean Martin en modo 'cool'. Serie de 4 películas.",2023
+24,"Zombies of Mora Tau",1956,"Edward Cahn","Richard Egan, Allison Hayes, Whit Bissell","Un buzo despierta a zombis marinos malditos al buscar un tesoro.",5.7,3.5,"Terror, Ciencia ficción, Zombis","Uno de los primeros zombis acuáticos. Clásico de serie B de los 50.",2023
