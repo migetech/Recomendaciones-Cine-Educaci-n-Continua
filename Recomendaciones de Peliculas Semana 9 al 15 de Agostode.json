@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Nombre de la película",
+    "descripcion": "Descripción",
+    "categoria": "Categoría",
+    "año": 2023
+  },
+  {
+    "titulo": "Otra película",
+    "descripcion": "Otra descripción",
+    "categoria": "Otra categoría",
+    "año": 2022
+  }
+]
