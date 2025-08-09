@@ -1,1 +1,104 @@
 
+
+```json
+{
+  "peliculas": [
+    {
+      "titulo": "Separate Tables",
+      "año": 1958,
+      "director": "Delbert Mann",
+      "actores": ["Rita Hayworth"]
+    },
+    {
+      "titulo": "Pink Flamingos",
+      "año": 1972,
+      "director": "John Waters"
+    },
+    {
+      "titulo": "Apocalypse Now",
+      "año": 1979,
+      "director": "Francis Ford Coppola",
+      "notas": "Triple Feature"
+    },
+    {
+      "titulo": "Go Tell The Spartans",
+      "año": 1978,
+      "director": "Ted Post"
+    },
+    {
+      "titulo": "Paradise Alley",
+      "año": 1978,
+      "director": "Sylvester Stallone"
+    },
+    {
+      "titulo": "Fast Times at Ridgemont High",
+      "año": 1982,
+      "director": "Amy Heckerling"
+    },
+    {
+      "titulo": "Into the Night",
+      "año": 1985,
+      "director": "John Landis"
+    },
+    {
+      "titulo": "A Star Is Born",
+      "año": 1976,
+      "director": "Frank Pierson",
+      "actores": ["Barbra Streisand", "Kris Kristofferson"]
+    },
+    {
+      "titulo": "Good Morning Vietnam",
+      "año": 1987,
+      "director": "Barry Levinson",
+      "notas": "25th Anniversary Edition"
+    },
+    {
+      "titulo": "They Live",
+      "año": 1988,
+      "director": "John Carpenter",
+      "titulo_alternativo": "Estan Vivos",
+      "actores": ["Roddy Piper"]
+    },
+    {
+      "titulo": "BAT*21",
+      "año": 1988,
+      "director": "Peter Markle",
+      "actores": ["Gene Hackman"]
+    },
+    {
+      "titulo": "Primal Fear",
+      "año": 1996,
+      "director": "Gregory Hoblit",
+      "notas": "Hard Evidence Edition",
+      "actores": ["Richard Gere"]
+    },
+    {
+      "titulo": "The Grudge",
+      "año": 2004,
+      "director": "Takashi Shimizu"
+    },
+    {
+      "titulo": "Metamorphosis",
+      "director": "Desconocido"
+    },
+    {
+      "titulo": "La Sirena y El Delfin",
+      "actores": ["Alan Ladd"],
+      "director": "Desconocido"
+    },
+    {
+      "titulo": "Crush",
+      "director": "Desconocido"
+    },
+    {
+      "titulo": "Kindred",
+      "director": "Desconocido"
+    },
+    {
+      "titulo": "Noticias Gran Mundo",
+      "actores": ["Tom Hanks"],
+      "director": "Desconocido"
+    }
+  ]
+}
+```
